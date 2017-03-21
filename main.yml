@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
-  user: richard
+  user: fabriceb
   connection: local
 
   vars_files:
